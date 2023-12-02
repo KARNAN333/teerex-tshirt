@@ -14,7 +14,7 @@ function Header() {
     <Navbar expand="lg" className="bg-secondary fixed">
       <Container>
         <Navbar.Brand> <Link to={'/'} className='d-flex align-items-center' style={{textDecoration:'none',color:'white',fontw
-            :'bold'}}><i class="fa-solid fa-shirt me-3"></i>TeeRex Tshiet</Link></Navbar.Brand>
+            :'bold'}}><i class="fa-solid fa-shirt me-3"></i>TeeRex TShirt</Link></Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="ms-auto">

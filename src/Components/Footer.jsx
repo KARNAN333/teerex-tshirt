@@ -6,7 +6,7 @@ function Footer() {
         <div style={{ width: '100%', height: '350px' }}  className='d-flex bg-secondary flex-column justify-content-center align-items-center'>
             <div className="footer-div d-flex justify-content-evenly flex-wrap w-100">
                 <div className="website" style={{ width: '400px' }}>
-                    <h4 className='text-white'><i class="fa-solid fa-shirt me-3"></i>TeeRex Tshiet</h4>
+                    <h4 className='text-white'><i class="fa-solid fa-shirt me-3"></i>TeeRex TShirt</h4>
                     <h6>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Provident possimus libero iure rerum rem nihil</h6>
                     <h6>Code Licensed MIT ,dose CC BY 3.0</h6>
                     <p>Current Version v1.0.6</p>
@@ -40,7 +40,7 @@ function Footer() {
                 </div>
 
             </div>
-            <p>Copyright @ 2023 TeeRex Tshiet. Build with React</p>
+            <p>Copyright @ 2023 TeeRex TShirt. Build with React</p>
         </div>
     )
 }
